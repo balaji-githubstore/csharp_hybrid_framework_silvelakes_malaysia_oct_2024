@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Silverlakes.MedicalRecordAutomation.Base
 {
+    /// <summary>
+    /// WebDriverKeyword will be used by Page Object Model Classes
+    /// </summary>
     public class WebDriverKeywords
     {
 
